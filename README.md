@@ -1,1 +1,1 @@
-# News-web-application
+# News web application
